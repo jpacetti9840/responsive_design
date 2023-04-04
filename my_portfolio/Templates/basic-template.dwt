@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/agc5lhu.css">
+<link rel="stylesheet" href="https://use.typekit.net/agc5lhu.css">
+<link rel="stylesheet" href="https://use.typekit.net/agc5lhu.css">
+<link rel="stylesheet" href="https://use.typekit.net/agc5lhu.css">
+<!-- TemplateBeginEditable name="head" -->
+
+	<style type="text/css">
+		
+	</style>
+	
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+	  <li><a href="../pages/about.html">About</a></li>
+		<li><a href="../pages/blog.html">Blog</a></li>
+		<li><a href="../pages/gallery.html">Gallery</a></li>
+		<li><a href="../pages/contact.html">Contact</a></li>
+    </ul>
+  </nav>
+<!--Begin Floated Elements-->
+  <aside><h3>I am a 10th grader who goes to Cox Mill High School. I love to read, hike, and travel.&nbsp;&nbsp;</h3>
+	<h3>Join me as I examine life through all of my various lenses.</h3>
+	<h3>by Julia Pacetti</h3>
+	</aside>
+	<!-- TemplateBeginEditable name="main content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable --><!--End Floated Elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+	<title>Through My Lens</title>	
+</body>
+</html>
